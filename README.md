@@ -15,3 +15,5 @@
 ### Due to large number and useless of files, I only upload scr of project.
 
 - A presentation slide, file in path "oop project latest\Smartphone Inventory System.pptx"
+
+- This repo is to easily access of my things and open dicussion.
